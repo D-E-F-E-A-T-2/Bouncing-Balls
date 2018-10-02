@@ -1,0 +1,8 @@
+Problems: Balls are not bouncing back
+
+Threading: It would be great if you put threadings in use to make all ball bounce simultaneously.
+
+
+
+Mention:
+I saw a siilar code in Introduction to computer science using python by Charles Dierbach.
